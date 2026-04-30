@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# documentation (keep only README.md and README.txt)
+API_DOCUMENTATION.md
+CHECKLIST.md
+DEPLOYMENT.md
+DEPLOYMENT_CHECKLIST.md
+DEPLOY_QUICK_START.md
+MESSAGING_UPDATES.md
+QUICK_REFERENCE.md
+RAILWAY_DEPLOYMENT.md
+SETUP_GUIDE.md
+UI_IMPROVEMENTS.md
+USER_GUIDE.md
+WALKTHROUGH.md
+WHAT_TO_CHANGE.md
+check-user.sql
+supabase-complete-fix.sql
+supabase-schema-fixed.sql
+supabase-schema.sql
